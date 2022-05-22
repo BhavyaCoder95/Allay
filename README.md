@@ -1,2 +1,3 @@
-# Allay
-Making Minecraft Allay
+# Game Maker Design
+Game Maker Design
+# Friends :- Takashi, Surpi
